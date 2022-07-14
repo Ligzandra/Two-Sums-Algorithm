@@ -11,6 +11,6 @@ var twoSum = function(nums, target) {
 };
 
 
-console.log(twoSum([2,7,11,15],9))
-console.log(twoSum([3, 2, 4],5))
-console.log(twoSum([3,6,4,2],6))
+console.log(twoSum([2,7,11,15],9),"target: 9")
+console.log(twoSum([3, 2, 4],5),"target: 5")
+console.log(twoSum([3,6,4,2],6),"target: 6")
